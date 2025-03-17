@@ -1,0 +1,8 @@
+venv
+cuda
+.ipynb_checkpoints
+vocab.txt
+train_split.txt
+val_split.txt
+__pycache__
+model-*
